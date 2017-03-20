@@ -2,4 +2,9 @@
   "name": {
     "required": true
   }
+  "Start date": {
+    "required": true,
+    "type": "date"
+  }
 }
+
