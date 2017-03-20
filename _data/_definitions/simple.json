@@ -1,10 +1,10 @@
-{
-  "name": {
-    "required": true
-  }
-  "Start date": {
-    "required": true,
-    "type": "date"
-  }
+{"title":
+	{"required":true},
+"blogimage":
+	{"type":"image","required":true},
+"url_friendly_name":
+	{"type":"url_slug"},
+"date":
+{"type":"date","required":true}
 }
 
