@@ -1,5 +1,10 @@
-{
-  "name": {
-    "required": true
-  }
+{"title":
+	{"required":true},
+"url_friendly_name":
+	{"type":"url_slug"},
+"date":
+{"type":"date","required":true},
+ "desc":
+{"type":"richtext","required":true}
 }
+
