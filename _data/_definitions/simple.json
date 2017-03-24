@@ -3,6 +3,8 @@
 "url_friendly_name":
 	{"type":"url_slug"},
 "date":
-{"type":"date","required":true}
+{"type":"date","required":true},
+ "desc":
+{"type":"richtext","required":true}
 }
 
